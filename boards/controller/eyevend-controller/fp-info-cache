@@ -1,4 +1,4 @@
-22460145916488638
+22466902845414385
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2294,6 +2294,20 @@ SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
 SW PUSH SMALL Tactile C&K
 0
 4
+2
+Buttons
+Inductor_NRS5024T2R2NMGJ
+
+
+0
+2
+2
+Buttons
+PTS636 6.0x3.5 Button
+
+
+0
+2
 2
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
@@ -61207,6 +61221,20 @@ THT
 0
 4
 2
+JFHAnalog
+OPA1602AIDR
+
+
+0
+8
+8
+JFHAnalog
+test
+
+
+0
+0
+0
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
