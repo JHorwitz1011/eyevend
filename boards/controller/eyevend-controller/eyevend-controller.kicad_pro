@@ -488,9 +488,9 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../../../../Windows/System32/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "eyevend-controller.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
